@@ -1,0 +1,2 @@
+adding from gitbash
+checking without pull we are avail to push the code 
